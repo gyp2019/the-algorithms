@@ -31,5 +31,3 @@ console.log(account);
 
 account.withdraw(800);
 console.log(account);
-
-
